@@ -96,8 +96,6 @@ The color wheel in the character customization menu will not let people choose c
 
 # Conclusive notes for now
 
-- Intended for salvage and paramedic jobs initially, but is versatile as any role.
-- Terrifying as a syndicate due to it's slippery nature, little need for small talk, and better void tolerance, but easily put down.
 - Makes satisfying suction cup noises when walking and letting go of objects
 
 I'd die of happiness at any squids, octopi, nautilus, etc becoming playable. 
