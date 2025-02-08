@@ -1,7 +1,8 @@
 # Cephalopod Species
 
-Concept by Waweeg
-Not implemented
+| Designers | Implemented | GitHub Links |
+|---|---|---|
+| Waweeg | :x: No | TBD |
 
 ## Overview
 
