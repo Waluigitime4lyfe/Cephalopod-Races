@@ -30,7 +30,7 @@ Their benefits outnumber their problems, but the severity of both let them teete
   - Should use (or be integrated into) the Guidebook
 
 - Cephalopods get oxygen from drinking water, or getting water on their skin
-  - Examining one will say if they're Very Hydrated, Well Hydrated, Hydrated, Somewhat Dehydrated, Dehydrated.
+  - Examining one will say if they're Well Hydrated, Hydrated, Somewhat Dehydrated, Dehydrated.
     - They'll retain moisture for 20 minutes after max water absorbed, decreasing in these rankings as the time ticks down.
         - They'll also get slower in movement the less water in them.
     - The thirst warning activating means to immediately search out water, or they'll start suffocating after 60 seconds and immediately go critical.
@@ -42,7 +42,8 @@ Their benefits outnumber their problems, but the severity of both let them teete
 - Cephalopod blood is blue and contains copper. Their blood can be exchanged without problems with other blue blooded races.
 - Their brain is a donut shape with multiple mini brain stems (octopus arms have their own autonomy in real life with these stems) branching from it, it's referred to as brains in game.
 - When gibbed, they'll drop their gills, brains, stomach, eyes, ink sac, and hearts. 
-
+ -Their hearts are one item called hearts, similar to the brains.
+  -Their stomach is a curved tube
 Clothing gimmicks
 - Naked, their sprite will be flowing like the diona, but won't actually have a body. 
   - Their "body" is just their tentacles reaching all the way to the floor
@@ -98,6 +99,7 @@ The color wheel in the character customization menu will not let people choose c
 # Conclusive notes for now
 
 - Makes satisfying suction cup noises when walking and letting go of objects
+- I have attatched multiple images of visual design concepts for patterns and customization.
 
 I'd die of happiness at any squids, octopi, nautilus, etc becoming playable. 
 I'm not versed in code, but I am and know a few artists, and have a creative mind. If developers need my help if they decided this is good enough to add, I'll gladly work with them.
