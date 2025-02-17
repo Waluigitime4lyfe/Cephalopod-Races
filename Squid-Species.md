@@ -40,7 +40,7 @@ Squid faced aliens have been a staple in sci fi and fantasy for a long time. Whi
 Visual Design
 - Images attached.
 - Cephalopods will look like an octopus or squid, standing upright on its long arms and tentacles. When naked, their body is just 8 arms that trail from their "head" to the floor, with two acting as the conventional arms. 
-- Customization options will be Head shape (Round or conelike), Head addon (Fins, or even shells if fun enough), Face tentacles that will act as the facial hair options, and patterns you can choose. Some patterns are in the example images attached.
+- Customization options will be Head shape (Round or conelike), Head addon (Fins, or even shells if fun enough), Face tentacles that will act as the facial hair options, and patterns you can choose. Examples are in the example images attached.
 - Color Customization options will be limited to their skin color, their suction cup skin color, their eyes, the color of the pattern you select, and the color of whatever head addons you pick.
 - When gibbed, organs will be gills, hearts, brains, ink sac, and stomach. Some provided in one of the attached images.
 
